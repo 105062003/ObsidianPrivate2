@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "24c5acb6a15ea8d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ebc58ebd84745c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "604ace1bd4f1ef5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c13d675f0df9c5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed4e985f336a382",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          },
+          {
+            "id": "38ebe653ee114596",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Test2.md",
+                "bFile": "Test2.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Test2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c9bfe9faf916397",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cb56dc3ea08e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d77831234f082a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "29e2bdeac63b628b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "affadd27a82cc714",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d25616e599f5e62f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e585656800fb85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5e88fe25b4ee13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bienvenue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Bienvenue"
+            }
+          },
+          {
+            "id": "9d4366687d923d5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenue.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Bienvenue"
+            }
+          },
+          {
+            "id": "d3ca1efd2e65df68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "9e3f7169341ae5f6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "2c403a01461df05f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "4f10df94553556da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Create new base": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "githobs:Manage a github issue": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4f10df94553556da",
+  "lastOpenFiles": [
+    "README.md",
+    "Test2.md",
+    "test.md",
+    "Note1.md",
+    "Bienvenue.md"
+  ]
+}
